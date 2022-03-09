@@ -35,7 +35,7 @@ CREATE TABLE properties (
   country VARCHAR(255),
   street VARCHAR(255),
   city VARCHAR(255),
-  PROVINCE VARCHAR(255),
+  province VARCHAR(255),
   post_code VARCHAR(255),
   active BOOLEAN
 );
